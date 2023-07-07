@@ -45,3 +45,6 @@ This Python application allows you to record video from your computer's camera a
 7. The script will print the time intervals when humans are detected in each video file, along with the paths of the generated output files.
 
 8. To play the recorded videos, open them using VLC media player (or another compatible media player).
+
+# Demo
+[![Demo Video](http://i3.ytimg.com/vi/kRqsAjyVNQQ/hqdefault.jpg)](https://youtu.be/kRqsAjyVNQQ)

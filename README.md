@@ -46,5 +46,13 @@ This Python application allows you to record video from your computer's camera a
 
 8. To play the recorded videos, open them using VLC media player (or another compatible media player).
 
+## Answer to the Bonus Question: Why Incorporate a Visible Clock in the Recording?
+
+The decision to include a visible clock in the recorded videos serves a critical purpose in facilitating the development and debugging process. By having a precise time reference within the frame, it enables seamless correlation of specific events or behaviors with their corresponding timestamps. This visual cue proves invaluable in detecting timing issues, validating the accuracy of human detection, and conducting thorough analysis.
+
+The presence of a visible clock provides essential temporal context, allowing for meticulous examination and resolution of any discrepancies or anomalies in the detected human portions. Furthermore, it enhances the overall comprehension of the video clips, streamlining the development, debugging, and analysis phases.
+
+The strategic incorporation of a visible clock elevates the efficacy of the camera recorder application with human detection, delivering a comprehensive and precise view of the recorded events.
+
 # Demo
 [![Demo Video](http://i3.ytimg.com/vi/kRqsAjyVNQQ/hqdefault.jpg)](https://youtu.be/kRqsAjyVNQQ)
